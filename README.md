@@ -13,6 +13,7 @@ It saves results to a CSV file (resume mode supported).
 ## Install
 ```bash
 pip install -r requirements.txt
+```
 
 ## API key setup (required to run inference)
 This repository does NOT include any API keys.
