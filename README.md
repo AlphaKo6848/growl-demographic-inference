@@ -19,6 +19,7 @@ pip install -r requirements.txt
 This repository does NOT include any API keys.
 Create a file named .env in the project root directory and add the following line:
 ANTHROPIC_API_KEY=YOUR_KEY_HERE
+
 Do NOT commit the .env file.
 You can copy .env.example to .env and replace YOUR_KEY_HERE with your own key.
 
